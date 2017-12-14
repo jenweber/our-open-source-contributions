@@ -3,8 +3,10 @@
 This is a practice repository for anyone who wants to try out the open source
 collaboration workflow before jumping into a "real" open source project. Feel free
 to make some commits and a PR! For example, you could add to our list of
-goals or share something you learned today, right here in this README. Any files
-can be edited :)
+goals at the bottom of this page, right here in this README. Any files
+are welcome to be edited :)
+
+Past workshop info and slides are available in [archive/workshop-history.md](archive/workshop-history.md)
 
 ## How to get started
 
