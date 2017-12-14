@@ -13,11 +13,11 @@ for markdown. A markdown file is just a [weirdly formatted text file](https://gi
 Whether you want to edit a markdown file or something else, click on the edit
 pencil and walk through making a commit and pull request, all from the website itself.
 
-## A step by step guide to forking, cloning, etc.
+## A step by step guide to code contributions
 For a step-by-step guide that includes explanations for each step,
 see [this article](https://medium.com/@jenweber/your-first-open-source-contribution-a-step-by-step-technical-guide-d3aca55cc5a6)
 
-## Cheat Sheet
+## Cheat Sheet for code contributions
 
 For this repository, here are the steps you could practice:
 
