@@ -4,7 +4,7 @@
   "description": "A repository for developers to practice the open source workflow and share their insights",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "hello": "node scripts/index.js"
   },
   "repository": {
