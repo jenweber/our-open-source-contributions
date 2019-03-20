@@ -22,6 +22,7 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 
 ## My goals are...
 - do more PR reviews in the projects I help maintain - [@jenweber](https://github.com/jenweber)
+- to make some contributions to the open source community! - [@shawnren](https://github.com/shawnren)
 
 ## One thing I learned today...
 - how to run a simple http server without using Python - [@jenweber](https://github.com/jenweber)
