@@ -29,3 +29,6 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 
 ## Things I want to build...
 - a chatbot that lets you know of a new open source issues that you can contribute to - [@ajadams](https://github.com/ajadams)
+
+## Workshop demos
+- This is a fix for the workshop demo
