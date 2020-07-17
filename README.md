@@ -10,7 +10,7 @@ Past workshop info and slides are available in [archive/workshop-history.md](arc
 
 ## How to get started
 
-A full list of step-by-step instructions for your first pull request
+A full list of step-by-step instructions for your first pull request - test here
 can be found in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 To run files locally:
