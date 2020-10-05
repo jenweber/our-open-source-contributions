@@ -14,17 +14,23 @@ A full list of step-by-step instructions for your first pull request
 can be found in [CONTRIBUTING.md](CONTRIBUTING.md)
 
 To run files locally:
+
 ```
 npm install http-server -g
 http-server
 ```
+
 Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 
 ## My goals are...
+
 - do more PR reviews in the projects I help maintain - [@jenweber](https://github.com/jenweber)
+- Encourage more women to code , further my own knowledge by teaching others, pay it forward give back to community any useful skills like git and open source contibutions to help others progress
 
 ## One thing I learned today...
+
 - how to run a simple http server without using Python - [@jenweber](https://github.com/jenweber)
 
 ## Things I want to build...
+
 - a chatbot that lets you know of a new open source issues that you can contribute to - [@ajadams](https://github.com/ajadams)
