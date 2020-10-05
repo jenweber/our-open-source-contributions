@@ -7,7 +7,7 @@ you can't break things here. Feel free to experiment!
 You can help still practice and contribute to documentation!
 You can edit almost any file type from
 the GitHub website by clicking on the file in the file list, which opens a page
-like [this README](https://github.com/jenweber/our-open-source-contributions/blob/master/README.md).
+like [this README](https://github.com/jenweber/our-open-source-contributions/blob/main/README.md).
 The README is a file that end in `.md` that is shown in the home page of a project in GitHub. MD stands
 for markdown. A markdown file is just a [weirdly formatted text file](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 Whether you want to edit a markdown file or something else, click on the edit
@@ -30,8 +30,8 @@ For this repository, here are the steps you could practice:
 7. `git status` to review which files you changed, and `git diff` to see which lines of code changed
 8. Mark the files that you want to save with `git add path/to/the/file/you/changed.js`
 9. Commit the changes with `git commit -m "a short message including the issue number #123"`
-10. `git push origin master` to add your work to the online code hosted on GitHub, on your own fork
+10. `git push origin main` to add your work to the online code hosted on GitHub, on your own fork
 11. Open a pull request by going to your fork, the pull request tab, and open pull request.
-This project and branch "master" should be the base. Choose your branch from the "compare"
+This project and branch "main" should be the base. Choose your branch from the "compare"
 dropdown. Choose Create Pull Request. In the message, put a link to the Issue you created or
 commented on, and click Create to finish. Ta da!
