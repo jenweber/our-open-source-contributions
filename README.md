@@ -38,3 +38,7 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 
 ## Workshop demos
 - This is a fix for the workshop demo
+
+
+## Strengths and areas for improvement
+- I am good at finding new projects and topics to learn. I want to improve my ability to complete projects before starting a new one. - [@mctraore](https://github.com/mctraore)
