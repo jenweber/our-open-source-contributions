@@ -24,17 +24,15 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 
 ## My goals are...
 
-- do more PR reviews in the projects I help maintain - [@jenweber](https://github.com/jenweber)
-- Encourage more women to code , further my own knowledge by teaching others, pay it forward give back to community any useful skills like git and open source contibutions to help others progress
-- to make some contributions to the open source community! - [@shawnren](https://github.com/shawnren)
+- Reena is going to test Task#1,2,3. 
 
 ## One thing I learned today...
 
-- how to run a simple http server without using Python - [@jenweber](https://github.com/jenweber)
+- Some experience in collaborating on Code. 
 
 ## Things I want to build...
 
-- a chatbot that lets you know of a new open source issues that you can contribute to - [@ajadams](https://github.com/ajadams)
+- A GUI for Data Vizln. 
 
 ## Workshop demos
-- This is a fix for the workshop demo
+- I'm going to contribute every week.
