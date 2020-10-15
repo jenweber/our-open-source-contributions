@@ -9,6 +9,7 @@ are welcome to be edited :)
 Past workshop info and slides are available in [archive/workshop-history.md](archive/workshop-history.md)
 
 ## How to get started
+#Hello this is my change
 
 A full list of step-by-step instructions for your first pull request - test here
 can be found in [CONTRIBUTING.md](CONTRIBUTING.md)
@@ -18,6 +19,7 @@ To run files locally:
 ```
 npm install http-server -g
 http-server
+
 ```
 
 Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
