@@ -27,6 +27,7 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 - do more PR reviews in the projects I help maintain - [@jenweber](https://github.com/jenweber)
 - Encourage more women to code , further my own knowledge by teaching others, pay it forward give back to community any useful skills like git and open source contibutions to help others progress
 - to make some contributions to the open source community! - [@shawnren](https://github.com/shawnren)
+- to continue to learn and gain confidence in contributing to open source projects! [@elizhamilton (https://github.com/elizhamilton)]
 
 ## One thing I learned today...
 
