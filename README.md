@@ -32,6 +32,8 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 
 - how to run a simple http server without using Python - [@jenweber](https://github.com/jenweber)
 - how to make my first open source contribution on GitHub! - [@ElineJ](https://github.com/ElineJ)
+- we need install git hub to the terminal
+- contributing to open source doesn't have to be huge or even code
 
 ## Things I want to build...
 
@@ -39,3 +41,8 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 
 ## Workshop demos
 - This is a fix for the workshop demo
+
+## Strengths and areas for improvement
+- I am good at finding new projects and topics to learn. I want to improve my ability to complete projects before starting a new one. - [@mctraore](https://github.com/mctraore)
+
+## Marie was here!!!
