@@ -28,6 +28,7 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 - Encourage more women to code , further my own knowledge by teaching others, pay it forward give back to community any useful skills like git and open source contibutions to help others progress
 - to make some contributions to the open source community! - [@shawnren](https://github.com/shawnren)
 - Figure out this git thing once and for all #goals
+- Start contributing to open source projects and get into Ember A11y! - [@agathebadia](https://github.com/Agathebadia)
 
 ## One thing I learned today...
 
@@ -39,11 +40,16 @@ Visit [http://127.0.0.1:8080](http://127.0.0.1:8080) to view the site
 ## Things I want to build...
 
 - a chatbot that lets you know of a new open source issues that you can contribute to - [@ajadams](https://github.com/ajadams)
+- an Accessible Ember App! [@agathebadia](https://github.com/Agathebadia)
 
 ## Workshop demos
 - This is a fix for the workshop demo
 
 ## Strengths and areas for improvement
 - I am good at finding new projects and topics to learn. I want to improve my ability to complete projects before starting a new one. - [@mctraore](https://github.com/mctraore)
+- I am a good at project management & communicating, but I tend to overcommit and drown under too many projects! I need to take only a few things at a time and be focused on my learnings :) - [@agathebadia](https://github.com/Agathebadia)
+
+## Where can I start contributing?
+- Check out [Help Wanted](https://help-wanted.emberjs.com/ember-learn) with the tag `good first issue`
 
 ## Marie was here!!!
