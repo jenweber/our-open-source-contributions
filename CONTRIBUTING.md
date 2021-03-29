@@ -43,7 +43,7 @@ I've cloned the main repo and I want to remove it locally (and start over with a
 
 First you need to go one folder up:
 `cd ..`
-Then enter the command to remove the repo:
+Then enter the command to remove the repo. Be careful with `-rf`, because it deletes things forever from your computer.
 `rm -rf our-open-source-contributions`
 Once done you can check if the repo has been deleted locally:
 `ls ` + TAB
